@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DCTam/ms2blackpink/issues"
   },
-  "homepage": "https://github.com/DCTam/ms2blackpink#readme"
+  "homepage": "https://github.com/DCTam/ms2blackpink#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
